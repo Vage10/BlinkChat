@@ -4,12 +4,16 @@ BlinkChat is a Full Stack Chatting App. Uses Socket.io for real time communicati
 
 ## Tech Stack
 
-Client: React JS
-Server: Node JS, Express JS
-Database: Mongo DB
+Client:
+React JS
+Server: 
+Node JS, Express JS
+Database:
+Mongo DB
 
 ## Demo
 
 [https://talk-a-tive-7fgq.onrender.com/]
+
 ![image](https://github.com/user-attachments/assets/e6eace33-a5f2-4443-816c-6fb30d836860)
 
